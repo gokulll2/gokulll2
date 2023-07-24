@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul Sethi</h1>
-<h3 align="center">Creative Developer</h3>
+<h3 align="center">Developer</h3>
 
 <img align="right" alt="coding" width="420" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4771115cjz5en0zsiltcgta2oj2m42d617ddl797aa&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulll2&label=Profile%20views&color=0e75b6&style=flat" alt="gokulll2" /> </p>
